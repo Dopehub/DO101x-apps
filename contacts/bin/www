@@ -8,6 +8,8 @@ var app = require('../app');
 var debug = require('debug')('contacts:server');
 var http = require('http');
 
+// something i wrote to test how submodules work.
+
 /**
  * Get port from environment and store in Express.
  */
